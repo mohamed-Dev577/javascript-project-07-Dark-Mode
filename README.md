@@ -62,4 +62,4 @@ Mohamed Hussin
 
 ---
 
-⭐ مشروع مهم لفهم التحكم في الـ UI باستخدام JavaScript.
+⭐ مشروع مهم لفهم التحكم في الـ UI باستخدام JavaScript.  
